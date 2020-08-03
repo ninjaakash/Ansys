@@ -1,3 +1,15 @@
+#Ansys
+
+
+
+
+
+
+
+
+
+
+
 class Ansys():
     def __init__(self,velocity, density, viscocity, diameter,y_plus,type_of_flow="internal"):
         self.velocity=velocity
